@@ -1,0 +1,25 @@
+[{
+ "id": 1,
+ "name": "iPhone 7 Plus",
+ "description": "Apple, 32GB, RAM: 3GB, iOS13",
+ "price": 17000000,
+ "image":
+"https://pixabay.com/illustrations/smartphone-phone-call-mobile-4103051/",
+ "category_id": 1
+}, {
+ "id": 2,
+ "name": "iPad Pro 2020",
+ "description": "Apple, 128GB, RAM: 6GB",
+ "price": 37000000,
+ "image":
+"https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3APinwheel_galaxy.png&psig=AOvVaw3EsW-1wwxHTxUxaWke4NV5&ust=1666152320565000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCNi4_5rz6PoCFQAAAAAdAAAAABAE",
+ "category_id": 2
+}, {
+ "id": 3,
+ "name": "Galaxy Note 10 Plus",
+"description": "Samsung, 64GB, RAML: 6GB",
+ "price": 24000000,
+ "image":
+"https://pixabay.com/illustrations/smartphone-phone-call-mobile-4103051/",
+ "category_id": 3
+}]
